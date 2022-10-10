@@ -7,3 +7,4 @@ let maths="84";
 let english="86";
 let science="85";
 console.log(name,school,grade,section,roll_no,maths,english,science);
+//  please check the code
